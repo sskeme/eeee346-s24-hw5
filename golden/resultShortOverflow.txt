@@ -1,0 +1,22 @@
+------------------------------------
+Buffer Capacity: 5
+Buffer Size: 0
+Buffer isEmpty: 1
+Buffer isFull: 0
+------------------------------------
+Putting values in buffer
+------------------------------------
+Buffer Capacity: 5
+Buffer Size: 5
+Buffer isEmpty: 0
+Buffer isFull: 1
+------------------------------------
+Buffer contents: 
+GHIJK
+Resetting buffer
+------------------------------------
+Buffer Capacity: 5
+Buffer Size: 0
+Buffer isEmpty: 1
+Buffer isFull: 0
+------------------------------------

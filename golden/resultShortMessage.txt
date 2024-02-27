@@ -1,0 +1,22 @@
+------------------------------------
+Buffer Capacity: 20
+Buffer Size: 0
+Buffer isEmpty: 1
+Buffer isFull: 0
+------------------------------------
+Putting values in buffer
+------------------------------------
+Buffer Capacity: 20
+Buffer Size: 12
+Buffer isEmpty: 0
+Buffer isFull: 0
+------------------------------------
+Buffer contents: 
+Hello World!
+Resetting buffer
+------------------------------------
+Buffer Capacity: 20
+Buffer Size: 0
+Buffer isEmpty: 1
+Buffer isFull: 0
+------------------------------------
